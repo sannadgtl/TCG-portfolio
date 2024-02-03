@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
-eleventyNavigation:
-  key: Projects
-  order: 3
+# eleventyNavigation:
+#   key: Projects
+#   order: 3
 ---
 # Projects
 
